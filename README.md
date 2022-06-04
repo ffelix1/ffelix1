@@ -1,6 +1,6 @@
 ### Hola, I'm Amy 👋 (SHE,HER,HERS)
 
-### 🔭 I'm curretnly working on
+### 🔭 I'm currently working on
 - Creating my family business website
 - Creating a profile website with all my achievements
 
